@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+h3 {
+    text-align: center;
+    color: rebeccapurple;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+h4 {
+    color: #ebd92d;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.menu {
+    display: flex;
+    color: rebeccapurple;
+}
+
+.menu a {
+    margin-left: 15px;
+}
+
+ul li {
+    list-style-position: inside;
+}
+
+.olist img {
+    margin-right: 360px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
