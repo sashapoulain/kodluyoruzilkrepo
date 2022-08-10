@@ -1,0 +1,170 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    margin-top: 15px;
+}
+
+.gmail {
+    color: rgb(53, 52, 52);
+    text-decoration: none;
+}
+
+.gmail:hover {
+    text-decoration: underline;
+}
+
+.googlelogo {
+    display: block;
+    margin-bottom: 10px;
+    margin-left: 390px;
+    margin-right: auto;
+    padding-top: 70px;
+    padding-left: 120px;
+}
+
+.searchbar {
+    display: block;
+    margin-left: 360px;
+    margin-right: auto;
+    margin-bottom: 10px;
+    width: 500px;
+    height: 40px;
+    border-radius: 20px;
+    border: 1px solid rgb(202, 197, 197);
+    padding-left: 10px;
+}
+
+.btn1 {
+    border: none;
+    color: gray;
+    background-color: transparent;
+    padding-top: 7px;
+    font-size: 13px;
+}
+
+.text1 {
+    font-size: 12px;
+    color: black;
+    width: 405px;
+    border: none;
+    height: 30px;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text1:focus {
+    outline: none;
+}
+
+.btn2 {
+    border: none;
+    color: gray;
+    background-color: transparent;
+    padding-top: 7px;
+    padding-right: 7px;
+}
+
+.btn3 {
+    border: none;
+    color: gray;
+    background-color: transparent;
+    padding-top: 7px;
+}
+
+.inptgrp {
+    padding-left: 90px;
+}
+
+.text2 {
+    background-color: #f8f9fa;
+    outline: none;
+    width: 100px;
+    border: none;
+    font-size: 12px;
+    text-align: center;
+    margin-right: 10px;
+    border-radius: 2px;
+    padding: 7px;
+    cursor: pointer;
+}
+
+.text3 {
+    background-color: #f8f9fa;
+    outline: none;
+    width: 200px;
+    border: none;
+    font-size: 12px;
+    text-align: center;
+    margin-right: 10px;
+    border-radius: 2px;
+    padding: 7px;
+    cursor: pointer;
+}
+
+.eng {
+    margin-left: 120px;
+    margin-top: 10px;
+}
+
+.dil {
+    font-size: 11px;
+    text-decoration: none;
+}
+
+.dil:hover {
+    text-decoration: underline;
+}
+
+.country {
+    background-color: #e2e6ea;
+    display: block;
+    font-size: 13px;
+    border-bottom: 1px solid gray;
+    color: gray;
+}
+
+.menu1 a {
+    font-size: 13px;
+    color: gray;
+    text-decoration: none;
+    padding-left: 3px;
+}
+
+.menu1 a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    margin-top: 8px;
+}
+
+.menu2 a {
+    font-size: 13px;
+    color: gray;
+    text-decoration: none;
+    padding-left: 123px;
+}
+
+.menu2 a:hover {
+    text-decoration: underline;
+}
+
+.menu2 .fa-leaf {
+    color: green;
+    padding-right: 2px;
+}
+
+.menu3 a {
+    font-size: 13px;
+    color: gray;
+    text-decoration: none;
+    padding-left: 3px;
+}
+
+.menu3 a:hover {
+    text-decoration: underline;
+}
